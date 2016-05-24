@@ -12,6 +12,6 @@ I'm supporting a collection of web applications written in Perl, JavaScript, jQu
 
 I've handled server installs, upgrades, migrations, failures and decommissions. I'm implementing systems compliant with federal HIPAA, 21 CFR 11 electronic signature regulations. I'm monitoring FDA UDI labeling requirements.
 
-Through all of this I completed training and served as a parenting instructor at [Break Through Learning Center](https://btlconline.com/). I also volunteer as a web administrator and hour of code facilitator for my son's elementary school. I assisted the [International RRP ISA Center](http://rrpwebsite.org/) as a client liaison through their last website redesign.
+Through all of this I completed training and served as a parenting instructor at [Break Through Learning Center](https://btlconline.com/about/ben/). I also volunteer as a web administrator and hour of code facilitator for my son's elementary school. I assisted the [International RRP ISA Center](http://rrpwebsite.org/) as a client liaison through their last website redesign.
 
 If your team is about making a difference in the world, in any business sector, [I'd love to hear from you](http://goo.gl/forms/OJSoCD6WrvfH11p33).
