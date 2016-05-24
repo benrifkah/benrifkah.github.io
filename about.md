@@ -14,4 +14,4 @@ I've handled server installs, upgrades, migrations, failures and decommissions. 
 
 Through all of this I've completed training an served as a parenting instructor at [Break Through Learning Center](https://btlconline.com/) and volunteer as a web administrator and hour of code facilitator for my son's elementary school. I've also assisted the [International RRP ISA Center](http://rrpwebsite.org/) as a client liaison through their last website redesign.
 
-If your team is about making a difference in the world, in any business sector, then I'll probably notice you and reach out.
+If your team is about making a difference in the world, in any business sector, [I'd love to hear from you](http://goo.gl/forms/OJSoCD6WrvfH11p33).
