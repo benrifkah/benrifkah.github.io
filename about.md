@@ -6,7 +6,7 @@ permalink: /about/
 
 Greetings, My name is BenRifkah Bergsten-Buret, Ben for short. I was raised in the Pacific Northwest and currently live in Seattle, Washington.
 
-Since 2005 I've supported the [University of Washington's Clinical Trials Center](https://roc.uwctc.org/) which serves as the data coordinating center of the Resuscitation Outcomes Consortium (ROC), one of the world's largest emergency medicine research initiatives. We continue to perform ground breaking research and develop new tools to support it.
+Since 2005 I've supported the [University of Washington's Clinical Trials Center](https://www.biostat.washington.edu/research/centers/uwctc) which serves as the data coordinating center of the Resuscitation Outcomes Consortium (ROC), one of the world's largest emergency medicine research initiatives. We continue to perform ground breaking research and develop new tools to support it.
 
 I'm supporting a collection of web applications written in Perl, JavaScript, jQuery, Prototype.js, HTML::Mason, Moose, PHP, Laravel and Bootstrap. I'm actively developing platform and deployment tools to handle the repetitive tasks and keep our small team productive.
 
